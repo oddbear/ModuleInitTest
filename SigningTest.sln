@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigningTest", "SigningTest\SigningTest.csproj", "{69DCD189-8C0A-4C05-9776-9129660040CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignedClassLibrary", "SignedClassLibrary\SignedClassLibrary.csproj", "{1F5DE598-F6C4-4DBE-8DEF-F0EC7C7DCE36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69DCD189-8C0A-4C05-9776-9129660040CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69DCD189-8C0A-4C05-9776-9129660040CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69DCD189-8C0A-4C05-9776-9129660040CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69DCD189-8C0A-4C05-9776-9129660040CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5DE598-F6C4-4DBE-8DEF-F0EC7C7DCE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5DE598-F6C4-4DBE-8DEF-F0EC7C7DCE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5DE598-F6C4-4DBE-8DEF-F0EC7C7DCE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5DE598-F6C4-4DBE-8DEF-F0EC7C7DCE36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
